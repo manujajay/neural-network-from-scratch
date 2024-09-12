@@ -19,8 +19,8 @@ This repository contains a Python script that builds a simple neural network fro
 Clone this repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/manujajay/neural-network-animation.git
-cd neural-network-animation
+git clone https://github.com/manujajay/neural-network-from-scratch.git
+cd neural-network-from-scratch
 ```
 
 Install the required packages:
@@ -34,7 +34,7 @@ pip install numpy matplotlib
 Run the script to see the neural network in action:
 
 ```bash
-python neural_network_with_animation.py
+python nn.py
 ```
 
 An animated plot will appear showing the decision boundary as it changes during the training process.
