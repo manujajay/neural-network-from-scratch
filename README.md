@@ -19,7 +19,7 @@ This repository contains a Python script that builds a simple neural network fro
 Clone this repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/yourusername/neural-network-animation.git
+git clone https://github.com/manujajay/neural-network-animation.git
 cd neural-network-animation
 ```
 
